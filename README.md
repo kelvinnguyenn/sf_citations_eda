@@ -8,5 +8,8 @@
   - What are the most common types of citations?
   - Where do these citations occur?
   - When do these citations occur?
+ 
+ ## Who is this EDA for?
+  This EDA is for anyone who would like to learn more about the general trends that exist about parking citations and for those who would like to save money by getting less citations.
 
 For a more in-depth explanation about the goals of the project, please refer to the notebook.
