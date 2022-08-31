@@ -14,6 +14,6 @@
   
  ## Example images
   ![](/images/fig1.png)
-  *test*
+  ![](/images/fig2.png)
 
 For a more in-depth explanation about the goals of the project, please refer to the notebook.
